@@ -3,6 +3,7 @@
 @import 'components.css';
 @import 'helpers.css';
 @import 'home.css';
+@import 'styles.css';
 
 /* Add a black background color to the top navigation */
 .content {

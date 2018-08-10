@@ -113,6 +113,10 @@ width:33%;
 
 
 }
+@media (min-width: 48em) {
+  .search{
+    margin-left:50px; !important  }
+}
 .sub{
   font-weight: normal;
   font-style: italic;
